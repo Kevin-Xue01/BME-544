@@ -170,5 +170,6 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 .DS_Store
-DC1_Recordings
+DC_1
+DC_2
 archive

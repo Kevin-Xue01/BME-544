@@ -171,5 +171,6 @@ cython_debug/
 .pypirc
 .DS_Store
 DC_1
-DC_2
+A3_DC_2
+A4_DC_2
 archive
